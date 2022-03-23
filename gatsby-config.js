@@ -3,15 +3,23 @@ module.exports = {
         title: "My first website",
     },
     plugins: [
-        "gatsby-plugin-image",
-        "gatsby-plugin-sharp",
-        {
-            resolve: `gatsby-source-filesystem`,
+        //"gatsby-plugin-image",
+        //"gatsby-plugin-sharp",
+        {// this is the pokimon API 
+            resolve: `gatsby-source-wordpress`,
             options: {
-                name: `blog`,
-                path: `${__dirname}/blog/`,
-            },
+                baseUrl: `https://csc496wordpress.tldr.dev/graphql`,
+                protocol: `https`,
+                hostingWPCOM: false,
+                useACF: false
+            },//for images
+            //resolve: `gatsby-source-filesystem`,
+            //options: {
+                //name: `blog`,
+                //path: `${__dirname}/blog/`,
+            //},
         },
         "gatsby-plugin-mdx",
     ],
 };
+
