@@ -57,3 +57,4 @@ Deploy this starter with one click on [Gatsby Cloud](https://www.gatsbyjs.com/cl
 5. **Add in Pokimon API code**
 
 Work in progress
+Keep running in to errors. Will be asking for help soon.
