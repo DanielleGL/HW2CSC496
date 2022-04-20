@@ -59,3 +59,8 @@ Deploy this starter with one click on [Gatsby Cloud](https://www.gatsbyjs.com/cl
  **Work in progress.**
  
 Keep running in to errors. Will be asking for help soon.
+
+
+6. **Made Link**
+
+Here: https://daniellegl.github.io/HW2CSC496/
