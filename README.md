@@ -36,7 +36,7 @@ To start this project look below
 
 4. **Add in Pokimon API code**
 
- **I would fix a lot of isssue so this is it**
+ **There still a lot of issue that didn't get fix**
  
 There should be a basic shell of an API. Not much else.
 
