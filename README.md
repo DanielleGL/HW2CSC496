@@ -11,7 +11,7 @@
   I use Gatsby to make a wedsite to make a Pokimon index
 </h1>
 
-## First off most of the project this is mainly gatsby
+## First off most of the project this is mainly Gatsby Tutorial
 
 1.  **There are links to example blogs**
 
